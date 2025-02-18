@@ -69,7 +69,7 @@ THIRD_APPS = [
 ]
 
 PROJECT_APPS = [
-    # 'apps.base',
+    'apps.base',
     # 'apps.myapp',
 ]
 
